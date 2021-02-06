@@ -5,7 +5,7 @@ const github_base = "Izumiko/cloudflare-worker-blog";
 var default_title	 = "Izumiko Minimal Blog";	// 站点标题（显示在浏览器标题栏）
 var default_intitle	 = "Izumiko Blog";		// 站点名称（显示在首页）
 var default_description  = "杂货铺，记录一些零碎的东西。"; 	// 站点简介，有利于 SEO
-var site_domain		 = "7t.ee";			// 站点域名
+var site_domain		 = "blog.7t.ee";		// 站点域名
 var site_subtitle	 = "杂货铺";			// 站点副标题
 var site_favicon	 = "https://secure.gravatar.com/avatar/1b2b1852cc2bac240121fdf037920ba8?s=32";				// 站点 Logo
 
